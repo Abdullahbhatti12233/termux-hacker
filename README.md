@@ -1,3 +1,3 @@
-git clone https://github.comAbdullah/Sami190.git
-cd Sami190
-python2 Sami.py
+git clone https://github.comAbdullahCP.git
+cd AbdullahCP
+python2 Abdullah
