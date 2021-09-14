@@ -1,7 +1,7 @@
 Termux commands 
 
 
-git clone https://github.comSami198/abdullah1
-cd abdullah1
+git clone https://github.comAbdullahcp.git
+cd abdullahcp
 ls
 python2 abdullah.py
