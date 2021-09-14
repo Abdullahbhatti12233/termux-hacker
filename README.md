@@ -1,7 +1,3 @@
-Termux commands 
-
-
-git clone https://github.comAbdullahcp.git
-cd abdullahcp
-ls
-python2 abdullah.py
+git clone https://github.comAbdullah/Sami190.git
+cd Sami190
+python2 Sami.py
